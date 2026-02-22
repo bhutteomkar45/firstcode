@@ -1,0 +1,14 @@
+D:\c#.net\Access_Modifiers\Public_mod\obj\Debug\net10.0\Public,internal_mod.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#.net\Access_Modifiers\Public_mod\obj\Debug\net10.0\Public,internal_mod.AssemblyInfoInputs.cache
+D:\c#.net\Access_Modifiers\Public_mod\obj\Debug\net10.0\Public,internal_mod.AssemblyInfo.cs
+D:\c#.net\Access_Modifiers\Public_mod\obj\Debug\net10.0\Public,internal_mod.csproj.CoreCompileInputs.cache
+D:\c#.net\Access_Modifiers\Public_mod\bin\Debug\net10.0\Public,internal_mod.exe
+D:\c#.net\Access_Modifiers\Public_mod\bin\Debug\net10.0\Public,internal_mod.deps.json
+D:\c#.net\Access_Modifiers\Public_mod\bin\Debug\net10.0\Public,internal_mod.runtimeconfig.json
+D:\c#.net\Access_Modifiers\Public_mod\bin\Debug\net10.0\Public,internal_mod.dll
+D:\c#.net\Access_Modifiers\Public_mod\bin\Debug\net10.0\Public,internal_mod.pdb
+D:\c#.net\Access_Modifiers\Public_mod\obj\Debug\net10.0\Public,internal_mod.dll
+D:\c#.net\Access_Modifiers\Public_mod\obj\Debug\net10.0\refint\Public,internal_mod.dll
+D:\c#.net\Access_Modifiers\Public_mod\obj\Debug\net10.0\Public,internal_mod.pdb
+D:\c#.net\Access_Modifiers\Public_mod\obj\Debug\net10.0\Public,internal_mod.genruntimeconfig.cache
+D:\c#.net\Access_Modifiers\Public_mod\obj\Debug\net10.0\ref\Public,internal_mod.dll
