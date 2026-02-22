@@ -1,0 +1,14 @@
+D:\c#.net\pattern_print\patternprinting1\bin\Debug\net10.0\patternprinting1.exe
+D:\c#.net\pattern_print\patternprinting1\bin\Debug\net10.0\patternprinting1.deps.json
+D:\c#.net\pattern_print\patternprinting1\bin\Debug\net10.0\patternprinting1.runtimeconfig.json
+D:\c#.net\pattern_print\patternprinting1\bin\Debug\net10.0\patternprinting1.dll
+D:\c#.net\pattern_print\patternprinting1\bin\Debug\net10.0\patternprinting1.pdb
+D:\c#.net\pattern_print\patternprinting1\obj\Debug\net10.0\patternprinting1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#.net\pattern_print\patternprinting1\obj\Debug\net10.0\patternprinting1.AssemblyInfoInputs.cache
+D:\c#.net\pattern_print\patternprinting1\obj\Debug\net10.0\patternprinting1.AssemblyInfo.cs
+D:\c#.net\pattern_print\patternprinting1\obj\Debug\net10.0\patternprinting1.csproj.CoreCompileInputs.cache
+D:\c#.net\pattern_print\patternprinting1\obj\Debug\net10.0\patternprinting1.dll
+D:\c#.net\pattern_print\patternprinting1\obj\Debug\net10.0\refint\patternprinting1.dll
+D:\c#.net\pattern_print\patternprinting1\obj\Debug\net10.0\patternprinting1.pdb
+D:\c#.net\pattern_print\patternprinting1\obj\Debug\net10.0\patternprinting1.genruntimeconfig.cache
+D:\c#.net\pattern_print\patternprinting1\obj\Debug\net10.0\ref\patternprinting1.dll
