@@ -1,0 +1,14 @@
+D:\c#.net\pattern_print\Accessmodifier\bin\Debug\net10.0\Accessmodifier.exe
+D:\c#.net\pattern_print\Accessmodifier\bin\Debug\net10.0\Accessmodifier.deps.json
+D:\c#.net\pattern_print\Accessmodifier\bin\Debug\net10.0\Accessmodifier.runtimeconfig.json
+D:\c#.net\pattern_print\Accessmodifier\bin\Debug\net10.0\Accessmodifier.dll
+D:\c#.net\pattern_print\Accessmodifier\bin\Debug\net10.0\Accessmodifier.pdb
+D:\c#.net\pattern_print\Accessmodifier\obj\Debug\net10.0\Accessmodifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#.net\pattern_print\Accessmodifier\obj\Debug\net10.0\Accessmodifier.AssemblyInfoInputs.cache
+D:\c#.net\pattern_print\Accessmodifier\obj\Debug\net10.0\Accessmodifier.AssemblyInfo.cs
+D:\c#.net\pattern_print\Accessmodifier\obj\Debug\net10.0\Accessmodifier.csproj.CoreCompileInputs.cache
+D:\c#.net\pattern_print\Accessmodifier\obj\Debug\net10.0\Accessmodifier.dll
+D:\c#.net\pattern_print\Accessmodifier\obj\Debug\net10.0\refint\Accessmodifier.dll
+D:\c#.net\pattern_print\Accessmodifier\obj\Debug\net10.0\Accessmodifier.pdb
+D:\c#.net\pattern_print\Accessmodifier\obj\Debug\net10.0\Accessmodifier.genruntimeconfig.cache
+D:\c#.net\pattern_print\Accessmodifier\obj\Debug\net10.0\ref\Accessmodifier.dll

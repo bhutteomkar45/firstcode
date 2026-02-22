@@ -1,0 +1,14 @@
+D:\c#.net\Access_Modifiers\protected_mod\bin\Debug\net10.0\protected_mod.exe
+D:\c#.net\Access_Modifiers\protected_mod\bin\Debug\net10.0\protected_mod.deps.json
+D:\c#.net\Access_Modifiers\protected_mod\bin\Debug\net10.0\protected_mod.runtimeconfig.json
+D:\c#.net\Access_Modifiers\protected_mod\bin\Debug\net10.0\protected_mod.dll
+D:\c#.net\Access_Modifiers\protected_mod\bin\Debug\net10.0\protected_mod.pdb
+D:\c#.net\Access_Modifiers\protected_mod\obj\Debug\net10.0\protected_mod.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#.net\Access_Modifiers\protected_mod\obj\Debug\net10.0\protected_mod.AssemblyInfoInputs.cache
+D:\c#.net\Access_Modifiers\protected_mod\obj\Debug\net10.0\protected_mod.AssemblyInfo.cs
+D:\c#.net\Access_Modifiers\protected_mod\obj\Debug\net10.0\protected_mod.csproj.CoreCompileInputs.cache
+D:\c#.net\Access_Modifiers\protected_mod\obj\Debug\net10.0\protected_mod.dll
+D:\c#.net\Access_Modifiers\protected_mod\obj\Debug\net10.0\refint\protected_mod.dll
+D:\c#.net\Access_Modifiers\protected_mod\obj\Debug\net10.0\protected_mod.pdb
+D:\c#.net\Access_Modifiers\protected_mod\obj\Debug\net10.0\protected_mod.genruntimeconfig.cache
+D:\c#.net\Access_Modifiers\protected_mod\obj\Debug\net10.0\ref\protected_mod.dll
